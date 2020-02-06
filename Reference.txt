@@ -1,0 +1,4 @@
+ng new chess-web-app
+ng build
+ng build chess-web-app -c production
+ng serve
